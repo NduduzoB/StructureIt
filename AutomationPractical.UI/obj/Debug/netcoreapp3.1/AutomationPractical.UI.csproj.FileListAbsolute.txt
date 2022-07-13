@@ -1,0 +1,36 @@
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.deps.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.AssemblyReference.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfoInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfo.cs
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.CoreCompileInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.deps.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.AssemblyReference.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfoInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfo.cs
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.CoreCompileInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.deps.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.AssemblyReference.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfoInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfo.cs
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.CoreCompileInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Git\StructureIT_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.deps.json
+C:\Git\StructureIT_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Git\StructureIT_assessment\AutomationPractical.UI\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Git\StructureIT_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.AssemblyReference.cache
+C:\Git\StructureIT_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfoInputs.cache
+C:\Git\StructureIT_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.AssemblyInfo.cs
+C:\Git\StructureIT_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.csproj.CoreCompileInputs.cache
+C:\Git\StructureIT_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Git\StructureIT_assessment\AutomationPractical.UI\obj\Debug\netcoreapp3.1\AutomationPractical.UI.pdb

@@ -1,0 +1,976 @@
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.7z
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.bz2
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.gz
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.tar
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.zip
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.docx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.odt
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.pdf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.rtf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.avif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.bmp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dds
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dib
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.emf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.exif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.gif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heic
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ico
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.j2c
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jfif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jp2
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpc
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpe
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpg
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jxr
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pbm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pcx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pgm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.png
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ppm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.rle
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tga
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wdp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.webp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wmp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.ods
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.xlsx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.odp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.pptx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\TestData.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.deps.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.dev.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\DiffEngine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Shouldly.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriverManager.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.AssemblyReference.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfoInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfo.cs
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CopyComplete
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\Assessment1\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.genruntimeconfig.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.7z
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.bz2
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.gz
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.tar
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.zip
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.docx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.odt
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.pdf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.rtf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.avif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.bmp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dds
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dib
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.emf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.exif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.gif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heic
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ico
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.j2c
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jfif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jp2
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpc
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpe
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpg
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jxr
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pbm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pcx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pgm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.png
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ppm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.rle
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tga
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wdp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.webp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wmp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.ods
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.xlsx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.odp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.pptx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\TestData.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.deps.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.dev.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\DiffEngine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Shouldly.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriverManager.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.AssemblyReference.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfoInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfo.cs
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CopyComplete
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\automationpractice_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.genruntimeconfig.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.7z
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.bz2
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.gz
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.tar
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.zip
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.docx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.odt
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.pdf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.rtf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.avif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.bmp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dds
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dib
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.emf
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.exif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.gif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heic
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ico
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.j2c
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jfif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jp2
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpc
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpe
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpg
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jxr
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pbm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pcx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pgm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.png
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ppm
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.rle
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tga
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tif
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wdp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.webp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wmp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.ods
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.xlsx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.odp
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.pptx
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\TestData.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.deps.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.dev.json
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\DiffEngine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Shouldly.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriverManager.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.AssemblyReference.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfoInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfo.cs
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CopyComplete
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Users\nduduzo.bukhosini\OneDrive - Digital Outsource Services\Desktop\JHGHK\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.genruntimeconfig.cache
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.7z
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.bz2
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.gz
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.tar
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\archive\empty.zip
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.docx
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.odt
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.pdf
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\document\empty.rtf
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.avif
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.bmp
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dds
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.dib
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.emf
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.exif
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.gif
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heic
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.heif
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ico
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.j2c
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jfif
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jp2
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpc
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpe
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jpg
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.jxr
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pbm
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pcx
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.pgm
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.png
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.ppm
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.rle
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tga
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.tif
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wdp
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.webp
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\image\empty.wmp
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.ods
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\sheet\empty.xlsx
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.odp
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles\slide\empty.pptx
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\TestData.json
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.deps.json
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.json
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.runtimeconfig.dev.json
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\DiffEngine.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\EmptyFiles.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\Shouldly.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Composition.Registration.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.AccountManagement.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Reflection.Context.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Threading.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\WebDriverManager.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\bin\Debug\netcoreapp3.1\AutomationPractical.UI.pdb
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.AssemblyReference.cache
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfoInputs.cache
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.AssemblyInfo.cs
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CoreCompileInputs.cache
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.csproj.CopyComplete
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.dll
+C:\Git\StructureIT_assessment\AutomationPractical.Tests\obj\Debug\netcoreapp3.1\AutomationPractical.Tests.genruntimeconfig.cache

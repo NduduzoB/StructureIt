@@ -1,0 +1,16 @@
+{
+  "SearchCriteria": [
+    {
+      "itemName": "Printed Dress",
+      "quantity": 5
+    },
+    {
+      "itemName": "Blouse",
+      "quantity": 1
+    },
+    {
+      "itemName": "Faded Short Sleeve T-shirts",
+      "quantity": 1
+    }
+  ]
+}
